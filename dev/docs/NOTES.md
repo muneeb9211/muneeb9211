@@ -6,3 +6,4 @@ Running log of changes.
 - 2025-01-13T19:45:07 — Clarify setup instructions (#20)
 - 2025-01-16T16:06:09 — Document configuration options (#26)
 - 2025-01-28T16:41:48 — Update documentation (#35)
+- 2025-01-30T18:32:50 — Document configuration options (#38)
