@@ -8,3 +8,4 @@ Running log of changes.
 - 2025-01-28T16:41:48 — Update documentation (#35)
 - 2025-01-30T18:32:50 — Document configuration options (#38)
 - 2025-02-02T17:28:56 — Clarify setup instructions (#41)
+- 2025-02-06T19:45:05 — Add usage examples to docs (#48)
