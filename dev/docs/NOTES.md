@@ -10,3 +10,4 @@ Running log of changes.
 - 2025-02-02T17:28:56 — Clarify setup instructions (#41)
 - 2025-02-06T19:45:05 — Add usage examples to docs (#48)
 - 2025-02-11T19:11:27 — Document configuration options (#56)
+- 2025-02-12T21:15:06 — Fix typos in documentation (#59)
