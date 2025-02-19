@@ -11,3 +11,4 @@
 # 2025-02-10T17:20:32  Improve error handling  (rev 51)
 # 2025-02-10T19:13:35  Improve error messages for validation  (rev 53)
 # 2025-02-17T17:12:22  Add graceful degradation on failure  (rev 64)
+# 2025-02-19T12:37:52  Return structured error responses  (rev 67)
