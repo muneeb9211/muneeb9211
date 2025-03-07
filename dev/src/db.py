@@ -7,3 +7,4 @@
 # 2025-02-11T21:36:42  Cache frequent read queries  (rev 57)
 # 2025-02-14T09:28:38  Batch database writes  (rev 61)
 # 2025-03-02T16:28:17  Add index to speed up lookups  (rev 82)
+# 2025-03-07T20:01:22  Reduce N+1 queries in reports  (rev 94)
