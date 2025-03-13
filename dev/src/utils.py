@@ -12,3 +12,4 @@
 # 2025-02-25T18:25:31  Remove dead imports  (rev 78)
 # 2025-02-26T17:30:45  Rename variables for clarity  (rev 79)
 # 2025-03-05T13:33:59  Remove dead imports  (rev 88)
+# 2025-03-13T10:50:54  Drop deprecated helpers  (rev 101)
