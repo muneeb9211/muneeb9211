@@ -10,3 +10,4 @@
 # 2025-03-05T21:30:48  Fix layout shift on load  (rev 90)
 # 2025-03-07T18:01:33  Debounce search input  (rev 92)
 # 2025-03-11T11:24:17  Debounce search input  (rev 98)
+# 2025-03-19T10:46:10  Fix layout shift on load  (rev 106)
