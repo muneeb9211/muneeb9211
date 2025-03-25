@@ -10,3 +10,4 @@
 # 2025-03-07T20:01:22  Reduce N+1 queries in reports  (rev 94)
 # 2025-03-07T20:22:21  Add index to speed up lookups  (rev 95)
 # 2025-03-21T09:46:58  Add index to speed up lookups  (rev 107)
+# 2025-03-25T17:25:51  Reduce N+1 queries in reports  (rev 115)
