@@ -13,3 +13,4 @@
 # 2025-03-19T10:46:10  Fix layout shift on load  (rev 106)
 # 2025-03-26T21:35:49  Improve mobile responsiveness  (rev 116)
 # 2025-04-02T14:49:29  Fix layout shift on load  (rev 121)
+# 2025-04-03T11:38:23  Improve mobile responsiveness  (rev 124)
