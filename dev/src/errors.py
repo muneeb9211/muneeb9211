@@ -18,3 +18,4 @@
 # 2025-03-13T09:18:10  Add graceful degradation on failure  (rev 100)
 # 2025-03-18T15:33:06  Add graceful degradation on failure  (rev 104)
 # 2025-04-03T09:26:12  Add graceful degradation on failure  (rev 122)
+# 2025-04-03T20:07:10  Improve error messages for validation  (rev 125)
