@@ -16,3 +16,4 @@
 # 2025-03-24T21:01:56  Cleanup unused code  (rev 113)
 # 2025-04-02T10:53:39  Remove dead imports  (rev 120)
 # 2025-04-15T18:10:12  Drop deprecated helpers  (rev 132)
+# 2025-04-15T21:17:27  Rename variables for clarity  (rev 133)
