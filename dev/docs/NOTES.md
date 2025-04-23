@@ -20,3 +20,4 @@ Running log of changes.
 - 2025-03-22T20:01:50 — Fix typos in documentation (#110)
 - 2025-03-31T12:29:37 — Fix typos in documentation (#119)
 - 2025-04-14T15:47:50 — Add usage examples to docs (#131)
+- 2025-04-23T13:56:56 — Fix typos in documentation (#146)
