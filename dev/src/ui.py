@@ -19,3 +19,4 @@
 # 2025-04-17T12:57:55  Improve UI responsiveness  (rev 137)
 # 2025-04-21T12:39:01  Improve UI responsiveness  (rev 143)
 # 2025-04-27T12:44:31  Improve mobile responsiveness  (rev 152)
+# 2025-04-28T11:30:23  Polish loading states  (rev 153)
