@@ -23,3 +23,4 @@ Running log of changes.
 - 2025-04-23T13:56:56 — Fix typos in documentation (#146)
 - 2025-04-24T16:18:21 — Clarify setup instructions (#148)
 - 2025-04-29T09:31:27 — Document configuration options (#155)
+- 2025-05-08T12:28:56 — Document configuration options (#169)
