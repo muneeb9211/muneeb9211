@@ -17,3 +17,4 @@
 # 2025-04-19T12:36:55  Add index to speed up lookups  (rev 139)
 # 2025-05-03T11:00:12  Cache frequent read queries  (rev 162)
 # 2025-05-11T14:57:28  Batch database writes  (rev 174)
+# 2025-05-12T20:23:33  Add index to speed up lookups  (rev 175)
