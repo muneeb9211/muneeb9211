@@ -24,3 +24,4 @@
 # 2025-04-30T17:19:27  Debounce search input  (rev 157)
 # 2025-05-01T12:48:34  Polish loading states  (rev 159)
 # 2025-05-10T19:54:56  Polish loading states  (rev 173)
+# 2025-05-20T12:12:55  Improve UI responsiveness  (rev 178)
