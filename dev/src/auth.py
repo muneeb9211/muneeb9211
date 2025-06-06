@@ -19,3 +19,4 @@
 # 2025-04-24T21:50:59  Fix session timeout handling  (rev 149)
 # 2025-05-01T18:59:14  Fix authentication bug  (rev 160)
 # 2025-05-14T11:02:03  Fix authentication bug  (rev 177)
+# 2025-06-06T14:10:01  Handle expired tokens on refresh  (rev 199)
