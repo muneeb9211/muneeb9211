@@ -21,3 +21,4 @@
 # 2025-06-02T12:00:08  Batch database writes  (rev 194)
 # 2025-06-06T14:57:25  Optimize database queries  (rev 200)
 # 2025-06-09T12:53:30  Batch database writes  (rev 202)
+# 2025-06-12T09:21:48  Reduce N+1 queries in reports  (rev 206)
