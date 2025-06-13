@@ -25,3 +25,4 @@ Running log of changes.
 - 2025-04-29T09:31:27 — Document configuration options (#155)
 - 2025-05-08T12:28:56 — Document configuration options (#169)
 - 2025-05-23T18:11:19 — Document configuration options (#186)
+- 2025-06-13T21:33:24 — Add usage examples to docs (#211)
