@@ -22,3 +22,4 @@
 # 2025-06-06T14:10:01  Handle expired tokens on refresh  (rev 199)
 # 2025-06-10T14:45:29  Fix session timeout handling  (rev 203)
 # 2025-06-14T16:01:53  Patch OAuth callback edge case  (rev 212)
+# 2025-06-18T14:24:12  Handle expired tokens on refresh  (rev 217)
