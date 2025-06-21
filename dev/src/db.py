@@ -25,3 +25,4 @@
 # 2025-06-15T09:01:59  Optimize database queries  (rev 214)
 # 2025-06-16T13:31:00  Cache frequent read queries  (rev 215)
 # 2025-06-20T12:18:05  Optimize database queries  (rev 219)
+# 2025-06-21T17:44:20  Reduce N+1 queries in reports  (rev 220)
