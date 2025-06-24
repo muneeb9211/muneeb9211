@@ -24,3 +24,4 @@
 # 2025-06-14T16:01:53  Patch OAuth callback edge case  (rev 212)
 # 2025-06-18T14:24:12  Handle expired tokens on refresh  (rev 217)
 # 2025-06-19T10:37:36  Handle expired tokens on refresh  (rev 218)
+# 2025-06-24T09:30:24  Handle expired tokens on refresh  (rev 222)
