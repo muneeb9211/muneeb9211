@@ -36,3 +36,4 @@
 # 2025-06-06T10:43:34  Add graceful degradation on failure  (rev 198)
 # 2025-06-12T15:52:25  Add graceful degradation on failure  (rev 208)
 # 2025-06-25T16:11:19  Improve error messages for validation  (rev 224)
+# 2025-06-27T14:22:31  Wrap external calls with retries  (rev 230)
