@@ -27,3 +27,4 @@
 # 2025-06-20T12:18:05  Optimize database queries  (rev 219)
 # 2025-06-21T17:44:20  Reduce N+1 queries in reports  (rev 220)
 # 2025-06-26T14:54:00  Optimize database queries  (rev 226)
+# 2025-06-30T17:53:02  Add index to speed up lookups  (rev 234)
