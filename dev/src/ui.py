@@ -30,3 +30,4 @@
 # 2025-06-11T14:46:35  Fix layout shift on load  (rev 205)
 # 2025-06-13T19:23:23  Polish loading states  (rev 210)
 # 2025-06-30T13:24:25  Debounce search input  (rev 232)
+# 2025-07-02T13:14:15  Improve mobile responsiveness  (rev 236)
