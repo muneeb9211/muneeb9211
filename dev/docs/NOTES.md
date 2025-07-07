@@ -28,3 +28,4 @@ Running log of changes.
 - 2025-06-13T21:33:24 — Add usage examples to docs (#211)
 - 2025-06-27T12:17:14 — Fix typos in documentation (#229)
 - 2025-07-07T16:08:45 — Document configuration options (#242)
+- 2025-07-07T16:40:04 — Document configuration options (#243)
