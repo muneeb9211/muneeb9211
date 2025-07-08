@@ -32,3 +32,4 @@
 # 2025-06-30T13:24:25  Debounce search input  (rev 232)
 # 2025-07-02T13:14:15  Improve mobile responsiveness  (rev 236)
 # 2025-07-02T20:56:56  Improve mobile responsiveness  (rev 239)
+# 2025-07-08T14:32:53  Polish loading states  (rev 244)
