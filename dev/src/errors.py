@@ -39,3 +39,4 @@
 # 2025-06-27T14:22:31  Wrap external calls with retries  (rev 230)
 # 2025-06-30T15:31:15  Add graceful degradation on failure  (rev 233)
 # 2025-07-08T17:56:24  Return structured error responses  (rev 245)
+# 2025-07-11T18:38:38  Return structured error responses  (rev 252)
