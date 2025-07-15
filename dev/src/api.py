@@ -19,3 +19,4 @@
 # 2025-06-26T21:23:36  Simplify API response serialization  (rev 227)
 # 2025-06-30T13:19:30  Split monolithic API handler  (rev 231)
 # 2025-07-14T14:39:44  Split monolithic API handler  (rev 255)
+# 2025-07-15T11:42:45  Add pagination to list endpoints  (rev 258)
