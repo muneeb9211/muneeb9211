@@ -21,3 +21,4 @@
 # 2025-07-14T14:39:44  Split monolithic API handler  (rev 255)
 # 2025-07-15T11:42:45  Add pagination to list endpoints  (rev 258)
 # 2025-07-17T15:13:16  Split monolithic API handler  (rev 262)
+# 2025-07-19T18:49:18  Refactor API handlers  (rev 267)
