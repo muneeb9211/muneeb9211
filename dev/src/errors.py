@@ -43,3 +43,4 @@
 # 2025-07-16T17:03:42  Wrap external calls with retries  (rev 260)
 # 2025-07-18T13:11:22  Improve error handling  (rev 263)
 # 2025-07-22T20:58:36  Improve error handling  (rev 270)
+# 2025-07-30T12:56:46  Improve error messages for validation  (rev 282)
