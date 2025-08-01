@@ -33,3 +33,4 @@ Running log of changes.
 - 2025-07-17T09:50:04 — Fix typos in documentation (#261)
 - 2025-07-18T19:52:32 — Update documentation (#266)
 - 2025-07-28T17:57:17 — Update documentation (#280)
+- 2025-08-01T14:34:36 — Fix typos in documentation (#285)
