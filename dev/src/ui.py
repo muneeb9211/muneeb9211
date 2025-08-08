@@ -39,3 +39,4 @@
 # 2025-07-23T20:28:59  Polish loading states  (rev 273)
 # 2025-07-24T21:14:22  Improve mobile responsiveness  (rev 275)
 # 2025-08-08T14:13:11  Fix layout shift on load  (rev 297)
+# 2025-08-08T16:33:13  Fix layout shift on load  (rev 298)
