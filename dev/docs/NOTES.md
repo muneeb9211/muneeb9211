@@ -36,3 +36,4 @@ Running log of changes.
 - 2025-08-01T14:34:36 — Fix typos in documentation (#285)
 - 2025-08-11T10:24:52 — Update documentation (#299)
 - 2025-08-14T09:24:57 — Add usage examples to docs (#300)
+- 2025-08-14T10:13:09 — Document configuration options (#301)
