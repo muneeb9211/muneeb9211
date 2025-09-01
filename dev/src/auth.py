@@ -29,3 +29,4 @@
 # 2025-07-03T13:04:39  Handle expired tokens on refresh  (rev 240)
 # 2025-07-18T17:17:40  Fix authentication bug  (rev 265)
 # 2025-08-03T21:35:10  Patch OAuth callback edge case  (rev 287)
+# 2025-09-01T21:05:55  Fix session timeout handling  (rev 321)
