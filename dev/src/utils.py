@@ -45,3 +45,4 @@
 # 2025-09-02T14:48:54  Remove dead imports  (rev 322)
 # 2025-09-03T14:35:16  Remove dead imports  (rev 323)
 # 2025-09-05T19:57:09  Drop deprecated helpers  (rev 324)
+# 2025-09-08T12:08:43  Rename variables for clarity  (rev 328)
