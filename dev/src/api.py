@@ -36,3 +36,4 @@
 # 2025-09-09T20:51:33  Refactor API handlers  (rev 330)
 # 2025-09-15T14:20:10  Add pagination to list endpoints  (rev 333)
 # 2025-09-15T18:43:44  Add pagination to list endpoints  (rev 335)
+# 2025-09-17T09:28:33  Split monolithic API handler  (rev 339)
