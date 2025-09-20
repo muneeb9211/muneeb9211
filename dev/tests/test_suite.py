@@ -42,3 +42,4 @@
 # 2025-08-07T18:16:08  Add edge-case tests for parser  (rev 294)
 # 2025-08-19T17:08:13  Add edge-case tests for parser  (rev 305)
 # 2025-09-06T11:35:17  Stabilize flaky integration test  (rev 325)
+# 2025-09-20T14:35:12  Increase test coverage for API layer  (rev 346)
