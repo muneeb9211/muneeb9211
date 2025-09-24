@@ -53,3 +53,4 @@
 # 2025-09-18T13:14:06  Debounce search input  (rev 342)
 # 2025-09-19T21:47:01  Polish loading states  (rev 345)
 # 2025-09-20T21:23:43  Fix layout shift on load  (rev 347)
+# 2025-09-24T19:35:37  Debounce search input  (rev 350)
