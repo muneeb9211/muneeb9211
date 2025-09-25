@@ -49,3 +49,4 @@
 # 2025-08-07T21:00:16  Improve error handling  (rev 295)
 # 2025-08-27T12:19:39  Wrap external calls with retries  (rev 315)
 # 2025-09-19T20:05:15  Return structured error responses  (rev 344)
+# 2025-09-25T10:06:40  Return structured error responses  (rev 352)
