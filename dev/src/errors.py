@@ -51,3 +51,4 @@
 # 2025-09-19T20:05:15  Return structured error responses  (rev 344)
 # 2025-09-25T10:06:40  Return structured error responses  (rev 352)
 # 2025-09-29T15:03:10  Return structured error responses  (rev 357)
+# 2025-10-01T10:22:11  Add graceful degradation on failure  (rev 360)
