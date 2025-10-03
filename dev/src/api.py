@@ -39,3 +39,4 @@
 # 2025-09-17T09:28:33  Split monolithic API handler  (rev 339)
 # 2025-09-19T09:05:26  Refactor API request routing  (rev 343)
 # 2025-09-26T10:14:11  Add pagination to list endpoints  (rev 355)
+# 2025-10-03T17:23:41  Simplify API response serialization  (rev 363)
