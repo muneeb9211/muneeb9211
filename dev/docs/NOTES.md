@@ -40,3 +40,4 @@ Running log of changes.
 - 2025-09-10T17:58:48 — Document configuration options (#331)
 - 2025-09-17T21:24:27 — Clarify setup instructions (#341)
 - 2025-10-06T19:20:35 — Add usage examples to docs (#367)
+- 2025-10-08T11:15:42 — Document configuration options (#370)
