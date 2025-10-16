@@ -35,3 +35,4 @@
 # 2025-10-05T15:54:49  Fix session timeout handling  (rev 366)
 # 2025-10-07T18:08:01  Fix session timeout handling  (rev 369)
 # 2025-10-16T16:29:21  Fix authentication bug  (rev 380)
+# 2025-10-16T19:47:51  Fix authentication bug in login flow  (rev 381)
