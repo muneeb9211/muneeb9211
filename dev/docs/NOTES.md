@@ -44,3 +44,4 @@ Running log of changes.
 - 2025-10-09T20:00:57 — Clarify setup instructions (#371)
 - 2025-10-10T14:26:32 — Fix typos in documentation (#372)
 - 2025-10-16T21:41:06 — Fix typos in documentation (#382)
+- 2025-10-20T18:26:54 — Clarify setup instructions (#385)
