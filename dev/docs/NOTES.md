@@ -45,3 +45,4 @@ Running log of changes.
 - 2025-10-10T14:26:32 — Fix typos in documentation (#372)
 - 2025-10-16T21:41:06 — Fix typos in documentation (#382)
 - 2025-10-20T18:26:54 — Clarify setup instructions (#385)
+- 2025-10-23T15:31:01 — Fix typos in documentation (#390)
