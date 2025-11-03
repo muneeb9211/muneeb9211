@@ -52,3 +52,4 @@
 # 2025-10-13T20:38:51  Drop deprecated helpers  (rev 373)
 # 2025-10-14T13:47:18  Rename variables for clarity  (rev 374)
 # 2025-10-17T19:47:36  Cleanup unused code  (rev 383)
+# 2025-11-03T11:56:35  Rename variables for clarity  (rev 399)
