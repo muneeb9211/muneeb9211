@@ -46,3 +46,4 @@
 # 2025-10-17T21:30:38  Optimize database queries  (rev 384)
 # 2025-10-26T10:17:50  Reduce N+1 queries in reports  (rev 393)
 # 2025-10-31T13:02:47  Add index to speed up lookups  (rev 398)
+# 2025-11-03T13:22:36  Batch database writes  (rev 400)
