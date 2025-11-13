@@ -49,3 +49,4 @@
 # 2025-11-03T13:22:36  Batch database writes  (rev 400)
 # 2025-11-04T15:09:19  Cache frequent read queries  (rev 401)
 # 2025-11-13T18:23:00  Batch database writes  (rev 408)
+# 2025-11-13T19:43:46  Reduce N+1 queries in reports  (rev 409)
