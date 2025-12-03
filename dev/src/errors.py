@@ -60,3 +60,4 @@
 # 2025-11-11T10:58:59  Return structured error responses  (rev 405)
 # 2025-11-14T20:57:54  Improve error messages for validation  (rev 411)
 # 2025-11-18T18:18:40  Wrap external calls with retries  (rev 413)
+# 2025-12-03T20:46:26  Improve error handling  (rev 428)
