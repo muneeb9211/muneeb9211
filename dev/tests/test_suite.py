@@ -50,3 +50,4 @@
 # 2025-10-27T15:26:42  Add unit tests  (rev 394)
 # 2025-11-17T19:37:36  Add edge-case tests for parser  (rev 412)
 # 2025-11-19T21:13:22  Add edge-case tests for parser  (rev 416)
+# 2025-12-04T11:30:39  Increase test coverage for API layer  (rev 429)
