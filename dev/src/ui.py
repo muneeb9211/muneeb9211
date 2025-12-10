@@ -63,3 +63,4 @@
 # 2025-11-11T14:06:38  Improve UI responsiveness  (rev 406)
 # 2025-11-14T10:00:44  Improve UI responsiveness  (rev 410)
 # 2025-11-25T11:17:47  Debounce search input  (rev 421)
+# 2025-12-10T20:19:13  Polish loading states  (rev 437)
