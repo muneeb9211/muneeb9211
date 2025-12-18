@@ -59,3 +59,4 @@
 # 2025-12-04T21:40:26  Cleanup unused code  (rev 430)
 # 2025-12-05T10:07:11  Remove dead imports  (rev 431)
 # 2025-12-17T20:24:57  Remove dead imports  (rev 449)
+# 2025-12-18T18:49:43  Drop deprecated helpers  (rev 451)
