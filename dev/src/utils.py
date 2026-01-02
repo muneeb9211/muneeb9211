@@ -62,3 +62,4 @@
 # 2025-12-18T18:49:43  Drop deprecated helpers  (rev 451)
 # 2025-12-22T12:31:43  Tidy up module structure  (rev 453)
 # 2026-01-02T12:25:10  Drop deprecated helpers  (rev 458)
+# 2026-01-02T14:46:42  Drop deprecated helpers  (rev 459)
