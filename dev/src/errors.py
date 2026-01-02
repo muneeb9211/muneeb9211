@@ -67,3 +67,4 @@
 # 2025-12-12T19:21:18  Improve error handling  (rev 442)
 # 2025-12-16T20:52:44  Improve error messages for validation  (rev 448)
 # 2025-12-22T19:07:55  Improve error messages for validation  (rev 455)
+# 2026-01-02T10:59:16  Improve error handling  (rev 457)
