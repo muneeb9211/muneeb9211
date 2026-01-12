@@ -66,3 +66,4 @@
 # 2026-01-03T11:25:33  Cleanup unused code  (rev 460)
 # 2026-01-03T16:09:56  Tidy up module structure  (rev 461)
 # 2026-01-08T16:37:52  Drop deprecated helpers  (rev 468)
+# 2026-01-12T12:34:35  Rename variables for clarity  (rev 471)
