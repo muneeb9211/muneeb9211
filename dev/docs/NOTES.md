@@ -51,3 +51,4 @@ Running log of changes.
 - 2025-12-16T14:05:21 — Document configuration options (#445)
 - 2025-12-23T12:56:39 — Document configuration options (#456)
 - 2026-01-06T18:40:19 — Add usage examples to docs (#466)
+- 2026-01-13T21:23:33 — Clarify setup instructions (#475)
