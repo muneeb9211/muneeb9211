@@ -70,3 +70,4 @@
 # 2026-01-02T10:59:16  Improve error handling  (rev 457)
 # 2026-01-08T20:37:14  Wrap external calls with retries  (rev 469)
 # 2026-01-20T09:19:38  Return structured error responses  (rev 483)
+# 2026-01-26T15:55:12  Improve error messages for validation  (rev 492)
