@@ -60,3 +60,4 @@
 # 2026-01-12T21:28:37  Reduce N+1 queries in reports  (rev 473)
 # 2026-01-15T13:21:30  Optimize database queries  (rev 477)
 # 2026-01-22T16:05:56  Reduce N+1 queries in reports  (rev 487)
+# 2026-01-27T11:05:45  Batch database writes  (rev 494)
