@@ -72,3 +72,4 @@
 # 2026-01-20T09:19:38  Return structured error responses  (rev 483)
 # 2026-01-26T15:55:12  Improve error messages for validation  (rev 492)
 # 2026-01-28T15:29:53  Return structured error responses  (rev 496)
+# 2026-01-29T09:54:01  Improve error messages for validation  (rev 497)
