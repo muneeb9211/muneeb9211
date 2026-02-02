@@ -55,3 +55,4 @@ Running log of changes.
 - 2026-01-17T21:03:21 — Clarify setup instructions (#481)
 - 2026-01-19T21:16:49 — Document configuration options (#482)
 - 2026-01-26T20:21:50 — Fix typos in documentation (#493)
+- 2026-02-02T12:43:40 — Document configuration options (#501)
