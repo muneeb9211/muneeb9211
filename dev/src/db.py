@@ -65,3 +65,4 @@
 # 2026-02-02T21:45:10  Cache frequent read queries  (rev 502)
 # 2026-02-06T09:04:19  Reduce N+1 queries in reports  (rev 508)
 # 2026-02-06T09:09:10  Reduce N+1 queries in reports  (rev 509)
+# 2026-02-06T15:24:34  Batch database writes  (rev 510)
