@@ -76,3 +76,4 @@
 # 2026-02-04T14:29:22  Improve error messages for validation  (rev 506)
 # 2026-02-09T09:17:54  Add graceful degradation on failure  (rev 511)
 # 2026-02-09T21:00:46  Return structured error responses  (rev 512)
+# 2026-02-10T21:07:32  Wrap external calls with retries  (rev 515)
