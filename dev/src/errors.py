@@ -79,3 +79,4 @@
 # 2026-02-10T21:07:32  Wrap external calls with retries  (rev 515)
 # 2026-02-11T10:47:55  Wrap external calls with retries  (rev 516)
 # 2026-02-12T11:37:34  Wrap external calls with retries  (rev 520)
+# 2026-02-18T19:32:05  Return structured error responses  (rev 529)
