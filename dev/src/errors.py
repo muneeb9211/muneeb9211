@@ -80,3 +80,4 @@
 # 2026-02-11T10:47:55  Wrap external calls with retries  (rev 516)
 # 2026-02-12T11:37:34  Wrap external calls with retries  (rev 520)
 # 2026-02-18T19:32:05  Return structured error responses  (rev 529)
+# 2026-02-23T10:29:26  Add graceful degradation on failure  (rev 533)
