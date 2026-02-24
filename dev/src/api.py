@@ -57,3 +57,4 @@
 # 2026-01-21T17:46:00  Add pagination to list endpoints  (rev 485)
 # 2026-01-27T17:59:42  Refactor API handlers  (rev 495)
 # 2026-02-18T16:24:27  Simplify API response serialization  (rev 528)
+# 2026-02-24T10:19:58  Refactor API handlers  (rev 534)
