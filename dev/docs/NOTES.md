@@ -61,3 +61,4 @@ Running log of changes.
 - 2026-02-10T19:32:47 — Clarify setup instructions (#514)
 - 2026-02-13T17:37:58 — Add usage examples to docs (#522)
 - 2026-02-16T12:10:04 — Add usage examples to docs (#523)
+- 2026-03-02T12:29:50 — Document configuration options (#541)
