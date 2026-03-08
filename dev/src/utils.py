@@ -79,3 +79,4 @@
 # 2026-03-05T14:35:27  Remove dead imports  (rev 548)
 # 2026-03-06T20:40:36  Rename variables for clarity  (rev 554)
 # 2026-03-07T09:02:37  Remove dead imports  (rev 556)
+# 2026-03-08T15:34:09  Tidy up module structure  (rev 558)
