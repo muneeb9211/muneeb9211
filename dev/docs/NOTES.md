@@ -64,3 +64,4 @@ Running log of changes.
 - 2026-03-02T12:29:50 — Document configuration options (#541)
 - 2026-03-04T16:21:41 — Add usage examples to docs (#547)
 - 2026-03-18T21:59:49 — Document configuration options (#574)
+- 2026-03-23T13:19:03 — Fix typos in documentation (#580)
