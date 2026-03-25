@@ -53,3 +53,4 @@
 # 2026-03-22T13:15:14  Patch OAuth callback edge case  (rev 579)
 # 2026-03-23T14:56:11  Fix authentication bug  (rev 581)
 # 2026-03-24T17:14:28  Fix session timeout handling  (rev 584)
+# 2026-03-25T12:06:02  Fix authentication bug  (rev 585)
