@@ -91,3 +91,4 @@
 # 2026-03-18T11:59:31  Improve error messages for validation  (rev 572)
 # 2026-03-19T13:37:29  Wrap external calls with retries  (rev 575)
 # 2026-03-19T18:28:59  Improve error messages for validation  (rev 576)
+# 2026-03-26T10:11:14  Improve error handling  (rev 586)
