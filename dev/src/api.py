@@ -65,3 +65,4 @@
 # 2026-03-11T21:39:44  Refactor API handlers  (rev 563)
 # 2026-03-21T13:06:48  Refactor API request routing  (rev 578)
 # 2026-03-30T10:58:27  Refactor API request routing  (rev 590)
+# 2026-03-30T14:43:43  Simplify API response serialization  (rev 591)
