@@ -93,3 +93,4 @@
 # 2026-03-19T18:28:59  Improve error messages for validation  (rev 576)
 # 2026-03-26T10:11:14  Improve error handling  (rev 586)
 # 2026-03-27T13:56:54  Return structured error responses  (rev 588)
+# 2026-04-01T09:42:50  Improve error messages for validation  (rev 594)
