@@ -67,3 +67,4 @@ Running log of changes.
 - 2026-03-23T13:19:03 — Fix typos in documentation (#580)
 - 2026-03-24T15:46:14 — Clarify setup instructions (#583)
 - 2026-03-31T15:27:39 — Add usage examples to docs (#593)
+- 2026-04-02T10:01:45 — Fix typos in documentation (#596)
