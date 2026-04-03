@@ -74,3 +74,4 @@
 # 2026-03-06T16:57:30  Add index to speed up lookups  (rev 553)
 # 2026-03-16T18:18:31  Cache frequent read queries  (rev 571)
 # 2026-03-24T14:53:13  Cache frequent read queries  (rev 582)
+# 2026-04-03T15:05:43  Add index to speed up lookups  (rev 598)
