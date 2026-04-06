@@ -83,3 +83,4 @@
 # 2026-03-10T14:36:35  Drop deprecated helpers  (rev 561)
 # 2026-03-15T19:21:52  Remove dead imports  (rev 568)
 # 2026-03-16T11:15:58  Tidy up module structure  (rev 569)
+# 2026-04-06T15:53:07  Tidy up module structure  (rev 602)
