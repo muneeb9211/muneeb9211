@@ -67,3 +67,4 @@
 # 2026-03-30T10:58:27  Refactor API request routing  (rev 590)
 # 2026-03-30T14:43:43  Simplify API response serialization  (rev 591)
 # 2026-04-01T20:44:38  Refactor API handlers  (rev 595)
+# 2026-04-07T20:01:22  Split monolithic API handler  (rev 605)
