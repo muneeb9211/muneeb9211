@@ -80,3 +80,4 @@
 # 2026-03-27T10:09:22  Fix layout shift on load  (rev 587)
 # 2026-04-04T11:22:30  Improve mobile responsiveness  (rev 599)
 # 2026-04-07T11:39:48  Improve UI responsiveness  (rev 603)
+# 2026-04-08T17:23:18  Improve UI responsiveness  (rev 606)
