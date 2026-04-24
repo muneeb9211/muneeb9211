@@ -81,3 +81,4 @@
 # 2026-04-15T18:49:09  Cache frequent read queries  (rev 614)
 # 2026-04-21T12:14:10  Cache frequent read queries  (rev 620)
 # 2026-04-21T16:22:23  Optimize database queries  (rev 622)
+# 2026-04-24T09:16:27  Add index to speed up lookups  (rev 624)
