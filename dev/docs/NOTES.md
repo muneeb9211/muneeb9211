@@ -70,3 +70,4 @@ Running log of changes.
 - 2026-04-02T10:01:45 — Fix typos in documentation (#596)
 - 2026-04-20T11:04:01 — Fix typos in documentation (#617)
 - 2026-04-20T17:33:41 — Clarify setup instructions (#618)
+- 2026-04-30T12:41:34 — Clarify setup instructions (#634)
