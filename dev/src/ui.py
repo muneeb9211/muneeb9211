@@ -84,3 +84,4 @@
 # 2026-04-14T09:14:37  Debounce search input  (rev 612)
 # 2026-04-19T15:20:27  Polish loading states  (rev 616)
 # 2026-04-26T19:34:58  Fix layout shift on load  (rev 628)
+# 2026-05-07T19:51:03  Improve UI responsiveness  (rev 648)
