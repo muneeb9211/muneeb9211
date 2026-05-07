@@ -87,3 +87,4 @@
 # 2026-04-10T20:47:50  Tidy up module structure  (rev 611)
 # 2026-04-24T09:22:47  Tidy up module structure  (rev 625)
 # 2026-04-29T12:04:48  Cleanup unused code  (rev 631)
+# 2026-05-07T19:46:26  Rename variables for clarity  (rev 647)
