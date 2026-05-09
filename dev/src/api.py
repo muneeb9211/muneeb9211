@@ -73,3 +73,4 @@
 # 2026-04-29T20:40:42  Refactor API request routing  (rev 632)
 # 2026-05-05T19:08:43  Refactor API handlers  (rev 642)
 # 2026-05-07T10:24:23  Refactor API request routing  (rev 646)
+# 2026-05-09T18:14:24  Add pagination to list endpoints  (rev 651)
