@@ -62,3 +62,4 @@
 # 2026-05-01T19:37:32  Handle expired tokens on refresh  (rev 637)
 # 2026-05-05T17:20:11  Handle expired tokens on refresh  (rev 641)
 # 2026-05-12T16:56:22  Handle expired tokens on refresh  (rev 655)
+# 2026-05-13T17:06:55  Fix session timeout handling  (rev 657)
