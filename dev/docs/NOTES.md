@@ -74,3 +74,4 @@ Running log of changes.
 - 2026-05-14T12:25:22 — Document configuration options (#658)
 - 2026-05-14T18:11:45 — Document configuration options (#660)
 - 2026-05-16T10:17:48 — Clarify setup instructions (#665)
+- 2026-05-18T21:52:07 — Clarify setup instructions (#668)
