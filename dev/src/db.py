@@ -87,3 +87,4 @@
 # 2026-05-11T10:56:02  Optimize database queries  (rev 652)
 # 2026-05-18T18:41:29  Optimize database queries  (rev 667)
 # 2026-05-22T14:12:37  Cache frequent read queries  (rev 676)
+# 2026-05-26T09:06:21  Reduce N+1 queries in reports  (rev 679)
