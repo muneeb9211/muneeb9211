@@ -92,3 +92,4 @@
 # 2026-05-30T13:06:14  Add index to speed up lookups  (rev 687)
 # 2026-06-03T19:28:18  Add index to speed up lookups  (rev 693)
 # 2026-06-06T14:24:58  Optimize database queries  (rev 697)
+# 2026-06-11T17:14:10  Add index to speed up lookups  (rev 707)
