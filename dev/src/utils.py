@@ -99,3 +99,4 @@
 # 2026-06-07T14:03:33  Drop deprecated helpers  (rev 698)
 # 2026-06-09T15:21:21  Tidy up module structure  (rev 704)
 # 2026-06-10T14:20:58  Remove dead imports  (rev 706)
+# 2026-06-12T20:29:53  Drop deprecated helpers  (rev 710)
