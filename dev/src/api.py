@@ -82,3 +82,4 @@
 # 2026-06-05T19:13:35  Simplify API response serialization  (rev 696)
 # 2026-06-10T13:48:51  Simplify API response serialization  (rev 705)
 # 2026-06-12T09:56:50  Add pagination to list endpoints  (rev 709)
+# 2026-06-12T20:38:03  Add pagination to list endpoints  (rev 711)
