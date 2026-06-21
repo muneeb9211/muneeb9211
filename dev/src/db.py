@@ -95,3 +95,4 @@
 # 2026-06-11T17:14:10  Add index to speed up lookups  (rev 707)
 # 2026-06-11T21:39:54  Optimize database queries  (rev 708)
 # 2026-06-15T10:04:29  Batch database writes  (rev 717)
+# 2026-06-21T11:18:07  Cache frequent read queries  (rev 726)
