@@ -77,3 +77,4 @@ Running log of changes.
 - 2026-05-18T21:52:07 — Clarify setup instructions (#668)
 - 2026-06-01T17:25:50 — Add usage examples to docs (#690)
 - 2026-06-02T21:21:22 — Update documentation (#691)
+- 2026-06-21T18:54:48 — Update documentation (#728)
