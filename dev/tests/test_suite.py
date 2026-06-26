@@ -91,3 +91,4 @@
 # 2026-06-21T12:55:54  Add edge-case tests for parser  (rev 727)
 # 2026-06-22T13:23:01  Add unit tests  (rev 730)
 # 2026-06-24T21:10:18  Add edge-case tests for parser  (rev 737)
+# 2026-06-26T12:06:39  Stabilize flaky integration test  (rev 740)
