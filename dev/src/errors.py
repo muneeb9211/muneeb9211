@@ -113,3 +113,4 @@
 # 2026-06-19T21:22:56  Add graceful degradation on failure  (rev 725)
 # 2026-06-22T12:18:06  Improve error handling  (rev 729)
 # 2026-06-25T17:10:28  Improve error handling  (rev 739)
+# 2026-06-26T20:23:29  Return structured error responses  (rev 741)
