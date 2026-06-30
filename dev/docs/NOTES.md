@@ -80,3 +80,4 @@ Running log of changes.
 - 2026-06-21T18:54:48 — Update documentation (#728)
 - 2026-06-24T10:55:50 — Fix typos in documentation (#732)
 - 2026-06-24T17:56:32 — Update documentation (#736)
+- 2026-06-30T16:48:12 — Document configuration options (#745)
