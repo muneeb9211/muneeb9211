@@ -92,3 +92,4 @@
 # 2026-06-08T14:08:58  Fix layout shift on load  (rev 700)
 # 2026-06-25T09:12:00  Improve UI responsiveness  (rev 738)
 # 2026-07-01T09:50:27  Fix layout shift on load  (rev 747)
+# 2026-07-02T14:54:53  Debounce search input  (rev 750)
