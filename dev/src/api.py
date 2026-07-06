@@ -89,3 +89,4 @@
 # 2026-06-24T10:58:44  Split monolithic API handler  (rev 733)
 # 2026-06-24T16:54:48  Simplify API response serialization  (rev 735)
 # 2026-07-01T14:08:07  Split monolithic API handler  (rev 748)
+# 2026-07-06T09:10:47  Split monolithic API handler  (rev 753)
