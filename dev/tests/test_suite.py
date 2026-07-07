@@ -93,3 +93,4 @@
 # 2026-06-24T21:10:18  Add edge-case tests for parser  (rev 737)
 # 2026-06-26T12:06:39  Stabilize flaky integration test  (rev 740)
 # 2026-07-06T09:48:06  Add edge-case tests for parser  (rev 754)
+# 2026-07-07T12:34:19  Add regression test for auth flow  (rev 756)
