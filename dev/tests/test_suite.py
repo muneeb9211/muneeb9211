@@ -97,3 +97,4 @@
 # 2026-07-14T10:30:52  Add regression test for auth flow  (rev 768)
 # 2026-07-14T15:43:22  Increase test coverage for API layer  (rev 769)
 # 2026-07-20T12:09:11  Add regression test for auth flow  (rev 778)
+# 2026-07-23T09:49:04  Stabilize flaky integration test  (rev 785)
