@@ -85,3 +85,4 @@ Running log of changes.
 - 2026-07-03T17:29:43 — Clarify setup instructions (#752)
 - 2026-07-09T09:23:08 — Fix typos in documentation (#759)
 - 2026-07-24T12:25:16 — Fix typos in documentation (#791)
+- 2026-07-28T16:17:17 — Clarify setup instructions (#795)
