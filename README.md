@@ -37,6 +37,3 @@ I've spent 10+ years building full-stack products, and the last few shipping AI 
 
 Building an AI SaaS, adding AI to an existing product, or stuck with a half-finished MVP? Reach out, happy to talk it through.
 
-[![Website](https://img.shields.io/badge/-digitalinnovation.pk-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://digitalinnovation.pk/team/muneeb-ahmad)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneeb786/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muneebahmad9211@gmail.com)
